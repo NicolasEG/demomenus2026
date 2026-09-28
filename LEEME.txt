@@ -1,0 +1,44 @@
+EL CHINO EMPANADAS — MENÚ DEMO
+
+PARA VERLO
+Descomprimí el ZIP y abrí index.html en tu navegador. No necesita instalación, internet ni servidor.
+
+PARA GITHUB PAGES
+1. Subí el contenido descomprimido al repositorio, con index.html en la raíz y la carpeta assets al lado. No subas solamente el ZIP.
+2. En la configuración del repositorio, abrí Pages y elegí publicar desde la rama donde subiste los archivos, carpeta raíz.
+3. Abrí la dirección que te indique GitHub Pages.
+Todas las rutas son relativas, por lo que también funciona dentro de un subdirectorio del repositorio.
+
+CONTENIDO
+- 18 pizzas con Grande (12), Mediana (8) y Chica (6).
+- 10 empanadas clásicas a $2500 por unidad.
+- 9 empanadas especiales a $2800 por unidad.
+- Fainá Clásica $2500 y Fainá Verdeo $3000.
+- Logo original únicamente en el loader animado. Fotos a pantalla completa con fundido a negro, categorías flotantes y carrito circular transparente con ícono SVG, tanto en celular como en escritorio.
+- Carrito: agregar, seleccionar tamaño, modificar cantidades, quitar unidades, vaciar y confirmar una prueba.
+- Respeta la preferencia de movimiento reducido del dispositivo.
+
+ALCANCE DE LA DEMO
+El carrito no envía pedidos ni cobra. Se reinicia al recargar la página.
+Los nombres, ingredientes y precios se transcribieron de las cuatro capturas suministradas. Se conservaron literalmente incluso cuando el nombre sugiere un ingrediente no listado (por ejemplo Rúcula c/Jamón Crudo).
+Cada producto tiene una imagen ilustrativa propia generada con IA según su variedad. No son fotografías reales del comercio.
+Las transiciones se inspiran en el video suministrado: navegación vertical de platos, imagen protagonista, entrada de textos y zoom suave.
+
+ARCHIVOS
+index.html: estructura.
+assets/css/styles.css: diseño y animaciones.
+assets/js/menu.js: carta y precios; editar aquí para actualizar productos.
+assets/js/app.js: categorías, selección de tamaños y carrito.
+assets/img/logonuevo.png: logo original suministrado.
+assets/img/p0.png a p17.png, c0.png a c9.png, e0.png a e8.png, f0.png y f1.png: fotografías ilustrativas individuales.
+No utiliza dependencias, fuentes ni recursos externos.
+
+CRÉDITOS Y PROMPTS DE IMÁGENES
+Herramienta: imagegen integrada, sin API/CLI externo.
+Prompt común: Photorealistic-natural restaurant menu full-bleed image. Dark burgundy tabletop. Close editorial food photograph, natural realistic textures. Square, slightly elevated three-quarter view, food in center and upper portion, lower portion dark for text overlay. Warm appetizing side lighting, golden highlights and soft shadows. No text, logos, watermarks, people or hands.
+Pizza: Argentine mozzarella pizza with abundant golden melted mozzarella, a little visible tomato sauce and a thick airy pizzeria crust.
+Empanadas: Several Argentine baked empanadas with golden pastry, authentic hand crimped repulgue edges and lightly blistered baked surfaces.
+Fainá: Argentine faina chickpea flatbread, golden thin triangular slices with crisp toasted edges, with some chopped scallions beside the slices.
+
+VERIFICACIÓN
+Probado en navegador Chromium/Edge abriendo index.html directamente y servido por HTTP. Verificadas categorías, tamaños, sumas del carrito, cambios de cantidad y confirmación de prueba. Revisado visualmente en celular (390 x 844) y escritorio (1366 x 900).

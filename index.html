@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#380c12"><meta name="description" content="El Chino Empanadas. Descubrí nuestras pizzas, empanadas y fainá. Armá tu pedido de prueba.">
+<title>El Chino Empanadas · Menú</title>
+<link rel="icon" href="data:,"><link rel="stylesheet" href="assets/css/styles.css">
+<script defer src="assets/js/menu.js"></script><script defer src="assets/js/app.js"></script>
+</head>
+<body>
+<div id="loader" aria-label="Cargando el menú"><img src="assets/img/logonuevo.png" alt="El Chino Empanadas Renovado"><span class="loader-line"></span><p>El antojo está por empezar.</p></div>
+<header class="menu-controls">
+<nav class="categories" aria-label="Categorías del menú"></nav>
+<button class="cart-open" aria-label="Abrir mi pedido">
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3h2l2.4 11.4a2 2 0 0 0 2 1.6h8.8a2 2 0 0 0 2-1.6L22 7H6"/><circle cx="10" cy="21" r="1"/><circle cx="19" cy="21" r="1"/></svg>
+<span id="cart-count" hidden>0</span>
+</button></header>
+<main id="menu" aria-label="Carta de productos" tabindex="-1"></main>
+<dialog id="cart-dialog" aria-labelledby="cart-title"><div class="dialog-heading"><div><span class="eyebrow">EL CHINO EMPANADAS</span><h2 id="cart-title">Tu pedido</h2></div><button class="close" aria-label="Cerrar pedido">×</button></div><p class="demo-note">Pedido de prueba · No se envía al local.</p><div id="cart-items"></div><div id="cart-footer"><div class="total-row"><span>Total</span><strong id="cart-total">$0</strong></div><button id="confirm-order">Confirmar pedido de prueba <span>→</span></button><button id="clear-cart">Vaciar pedido</button></div><div id="order-success" hidden><span class="success-mark">✓</span><h3>¡Qué buena elección!</h3><p>Tu pedido de prueba está listo. No se realizó ningún cobro ni se envió al comercio.</p><button id="keep-browsing">Seguir mirando el menú</button></div></dialog>
+<div id="toast" role="status" aria-live="polite"></div><noscript>Para ver los productos y armar tu pedido, activá JavaScript en el navegador.</noscript>
+</body></html>
