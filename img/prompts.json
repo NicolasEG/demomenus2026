@@ -1,0 +1,162 @@
+{
+  "mode": "built-in image_gen",
+  "products": [
+    [
+      "p0",
+      "Argentine mozzarella pizza with tomato sauce and abundant melted mozzarella"
+    ],
+    [
+      "p1",
+      "Argentine mozzarella pizza with tomato sauce and chopped hard boiled egg"
+    ],
+    [
+      "p2",
+      "Argentine mozzarella pizza with tomato sauce and folds of natural cooked ham"
+    ],
+    [
+      "p3",
+      "Argentine cancha pizza with tomato sauce and minced garlic, absolutely NO cheese"
+    ],
+    [
+      "p4",
+      "Argentine four cheese pizza with mozzarella, tomato sauce, blue roquefort, parmesan and provolone"
+    ],
+    [
+      "p5",
+      "Argentine fugazza bread pizza covered with roasted sliced onions, absolutely NO cheese"
+    ],
+    [
+      "p6",
+      "Argentine fugazzeta pizza with abundant mozzarella and roasted sliced onions"
+    ],
+    [
+      "p7",
+      "Argentine fugazzeton pizza with abundant mozzarella, onions, natural cooked ham and tomato"
+    ],
+    [
+      "p8",
+      "Argentine spinach pizza with mozzarella, tomato sauce, spinach, onion and scallions"
+    ],
+    [
+      "p9",
+      "Argentine especial pizza with mozzarella, tomato sauce, cooked ham and roasted red peppers"
+    ],
+    [
+      "p10",
+      "Argentine napolitana pizza with mozzarella, tomato sauce, natural cooked ham and garlic"
+    ],
+    [
+      "p11",
+      "Argentine cantimpalo pizza with mozzarella, tomato sauce and many slices of cantimpalo red cured sausage"
+    ],
+    [
+      "p12",
+      "Argentine roquefort pizza with mozzarella and visible melted blue cheese"
+    ],
+    [
+      "p13",
+      "Argentine provolone pizza with mozzarella, tomato sauce and abundant browned provolone"
+    ],
+    [
+      "p14",
+      "Argentine verdeo pizza with mozzarella, tomato sauce and chopped green scallions"
+    ],
+    [
+      "p15",
+      "Argentine palmitos pizza with mozzarella, tomato sauce, sliced white hearts of palm and pink golf sauce"
+    ],
+    [
+      "p16",
+      "Argentine pizza with mozzarella, tomato sauce, arugula, parmesan shavings and generous cured raw ham folds"
+    ],
+    [
+      "p17",
+      "Argentine pizza with mozzarella, tomato sauce, fresh arugula and parmesan shavings, NO ham"
+    ],
+    [
+      "c0",
+      "ground beef, onion, red bell pepper, scallions"
+    ],
+    [
+      "c1",
+      "shredded chicken, onion and red bell pepper"
+    ],
+    [
+      "c2",
+      "melted mozzarella, parmesan, roquefort blue cheese, provolone"
+    ],
+    [
+      "c3",
+      "melted mozzarella, roquefort blue cheese and pale green celery"
+    ],
+    [
+      "c4",
+      "melted mozzarella, roquefort blue cheese, red tomato, olive oil"
+    ],
+    [
+      "c5",
+      "melted mozzarella and red cantimpalo sausage"
+    ],
+    [
+      "c6",
+      "green spinach, white bechamel sauce and scallions"
+    ],
+    [
+      "c7",
+      "yellow corn kernels, creamy white sauce, scallions"
+    ],
+    [
+      "c8",
+      "melted mozzarella and pink cooked ham"
+    ],
+    [
+      "c9",
+      "melted mozzarella, red tomato and fresh green basil"
+    ],
+    [
+      "e0",
+      "large hand cut beef cubes, onion, red pepper, olive oil"
+    ],
+    [
+      "e1",
+      "melted mozzarella, pink ham, golden pineapple pieces, mustard butter glaze"
+    ],
+    [
+      "e2",
+      "slow cooked pork shoulder, carrot, leek, onion, pepper, dark beer reduction, provolone"
+    ],
+    [
+      "e3",
+      "beef tenderloin chunks, mushrooms, cream sauce, scallions, mozzarella"
+    ],
+    [
+      "e4",
+      "beef flank matambre pieces, melted mozzarella and scallions"
+    ],
+    [
+      "e5",
+      "slow braised beef shank, carrot, leek, scallions, peppers, dark malbec wine sauce"
+    ],
+    [
+      "e6",
+      "ground burger beef, orange cheddar, bacon, barbecue sauce and mustard"
+    ],
+    [
+      "e7",
+      "mozzarella, cured raw ham, arugula, parmesan"
+    ],
+    [
+      "e8",
+      "mozzarella, browned bacon and dark purple prunes"
+    ],
+    [
+      "f0",
+      "Classic Argentine faina chickpea flatbread golden thin triangular slices"
+    ],
+    [
+      "f1",
+      "Argentine faina chickpea flatbread golden triangular slices with visible abundant chopped green scallions baked in"
+    ]
+  ],
+  "base": "Single photorealistic appetizing Argentine pizzeria food photograph. Full bleed portrait composition with dark black backdrop and dark tabletop extending to all edges. Food centered upper two thirds filling most width, slight overhead angle, warm side lighting, realistic baked textures and accurate toppings. No text, logos, labels, watermark, border, collage, UI. Empanadas: three baked empanadas, one cut open prominently revealing listed filling."
+}
